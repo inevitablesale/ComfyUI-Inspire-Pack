@@ -1,2 +1,512 @@
-positive:beautiful scenery nature glass bottle landscape, , purple galaxy bottle,
-negative:text, watermark
+name: ARI_home_front
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Arizona Cardinals home football jersey (front view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: ARI_home_back
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Arizona Cardinals home football jersey (back view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: ARI_away_front
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Arizona Cardinals away football jersey (front view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: ARI_away_back
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Arizona Cardinals away football jersey (back view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: ATL_home_front
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Atlanta Falcons home football jersey (front view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: ATL_home_back
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Atlanta Falcons home football jersey (back view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: ATL_away_front
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Atlanta Falcons away football jersey (front view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: ATL_away_back
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Atlanta Falcons away football jersey (back view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: BAL_home_front
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Baltimore Ravens home football jersey (front view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: BAL_home_back
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Baltimore Ravens home football jersey (back view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: BAL_away_front
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Baltimore Ravens away football jersey (front view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: BAL_away_back
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Baltimore Ravens away football jersey (back view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: BUF_home_front
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Buffalo Bills home football jersey (front view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: BUF_home_back
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Buffalo Bills home football jersey (back view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: BUF_away_front
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Buffalo Bills away football jersey (front view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: BUF_away_back
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Buffalo Bills away football jersey (back view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: CAR_home_front
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Carolina Panthers home football jersey (front view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: CAR_home_back
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Carolina Panthers home football jersey (back view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: CAR_away_front
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Carolina Panthers away football jersey (front view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: CAR_away_back
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Carolina Panthers away football jersey (back view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: CHI_home_front
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Chicago Bears home football jersey (front view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: CHI_home_back
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Chicago Bears home football jersey (back view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: CHI_away_front
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Chicago Bears away football jersey (front view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: CHI_away_back
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Chicago Bears away football jersey (back view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: CIN_home_front
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Cincinnati Bengals home football jersey (front view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: CIN_home_back
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Cincinnati Bengals home football jersey (back view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: CIN_away_front
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Cincinnati Bengals away football jersey (front view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: CIN_away_back
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Cincinnati Bengals away football jersey (back view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: CLE_home_front
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Cleveland Browns home football jersey (front view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: CLE_home_back
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Cleveland Browns home football jersey (back view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: CLE_away_front
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Cleveland Browns away football jersey (front view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: CLE_away_back
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Cleveland Browns away football jersey (back view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: DAL_home_front
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Dallas Cowboys home football jersey (front view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: DAL_home_back
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Dallas Cowboys home football jersey (back view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: DAL_away_front
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Dallas Cowboys away football jersey (front view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: DAL_away_back
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Dallas Cowboys away football jersey (back view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: DEN_home_front
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Denver Broncos home football jersey (front view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: DEN_home_back
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Denver Broncos home football jersey (back view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: DEN_away_front
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Denver Broncos away football jersey (front view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: DEN_away_back
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Denver Broncos away football jersey (back view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: DET_home_front
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Detroit Lions home football jersey (front view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: DET_home_back
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Detroit Lions home football jersey (back view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: DET_away_front
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Detroit Lions away football jersey (front view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: DET_away_back
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Detroit Lions away football jersey (back view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: GB_home_front
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Green Bay Packers home football jersey (front view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: GB_home_back
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Green Bay Packers home football jersey (back view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: GB_away_front
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Green Bay Packers away football jersey (front view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: GB_away_back
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Green Bay Packers away football jersey (back view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: HOU_home_front
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Houston Texans home football jersey (front view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: HOU_home_back
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Houston Texans home football jersey (back view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: HOU_away_front
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Houston Texans away football jersey (front view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: HOU_away_back
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Houston Texans away football jersey (back view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: IND_home_front
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Indianapolis Colts home football jersey (front view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: IND_home_back
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Indianapolis Colts home football jersey (back view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: IND_away_front
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Indianapolis Colts away football jersey (front view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: IND_away_back
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Indianapolis Colts away football jersey (back view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: JAX_home_front
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Jacksonville Jaguars home football jersey (front view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: JAX_home_back
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Jacksonville Jaguars home football jersey (back view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: JAX_away_front
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Jacksonville Jaguars away football jersey (front view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: JAX_away_back
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Jacksonville Jaguars away football jersey (back view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: KC_home_front
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Kansas City Chiefs home football jersey (front view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: KC_home_back
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Kansas City Chiefs home football jersey (back view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: KC_away_front
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Kansas City Chiefs away football jersey (front view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: KC_away_back
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Kansas City Chiefs away football jersey (back view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: LV_home_front
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Las Vegas Raiders home football jersey (front view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: LV_home_back
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Las Vegas Raiders home football jersey (back view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: LV_away_front
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Las Vegas Raiders away football jersey (front view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: LV_away_back
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Las Vegas Raiders away football jersey (back view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: LAC_home_front
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Los Angeles Chargers home football jersey (front view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: LAC_home_back
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Los Angeles Chargers home football jersey (back view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: LAC_away_front
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Los Angeles Chargers away football jersey (front view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: LAC_away_back
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Los Angeles Chargers away football jersey (back view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: LAR_home_front
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Los Angeles Rams home football jersey (front view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: LAR_home_back
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Los Angeles Rams home football jersey (back view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: LAR_away_front
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Los Angeles Rams away football jersey (front view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: LAR_away_back
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Los Angeles Rams away football jersey (back view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: MIA_home_front
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Miami Dolphins home football jersey (front view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: MIA_home_back
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Miami Dolphins home football jersey (back view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: MIA_away_front
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Miami Dolphins away football jersey (front view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: MIA_away_back
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Miami Dolphins away football jersey (back view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: MIN_home_front
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Minnesota Vikings home football jersey (front view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: MIN_home_back
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Minnesota Vikings home football jersey (back view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: MIN_away_front
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Minnesota Vikings away football jersey (front view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: MIN_away_back
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Minnesota Vikings away football jersey (back view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: NE_home_front
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a New England Patriots home football jersey (front view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: NE_home_back
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a New England Patriots home football jersey (back view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: NE_away_front
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a New England Patriots away football jersey (front view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: NE_away_back
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a New England Patriots away football jersey (back view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: NO_home_front
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a New Orleans Saints home football jersey (front view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: NO_home_back
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a New Orleans Saints home football jersey (back view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: NO_away_front
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a New Orleans Saints away football jersey (front view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: NO_away_back
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a New Orleans Saints away football jersey (back view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: NYG_home_front
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a New York Giants home football jersey (front view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: NYG_home_back
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a New York Giants home football jersey (back view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: NYG_away_front
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a New York Giants away football jersey (front view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: NYG_away_back
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a New York Giants away football jersey (back view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: NYJ_home_front
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a New York Jets home football jersey (front view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: NYJ_home_back
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a New York Jets home football jersey (back view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: NYJ_away_front
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a New York Jets away football jersey (front view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: NYJ_away_back
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a New York Jets away football jersey (back view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: PHI_home_front
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Philadelphia Eagles home football jersey (front view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: PHI_home_back
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Philadelphia Eagles home football jersey (back view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: PHI_away_front
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Philadelphia Eagles away football jersey (front view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: PHI_away_back
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Philadelphia Eagles away football jersey (back view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: PIT_home_front
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Pittsburgh Steelers home football jersey (front view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: PIT_home_back
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Pittsburgh Steelers home football jersey (back view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: PIT_away_front
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Pittsburgh Steelers away football jersey (front view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: PIT_away_back
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Pittsburgh Steelers away football jersey (back view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: SF_home_front
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a San Francisco 49ers home football jersey (front view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: SF_home_back
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a San Francisco 49ers home football jersey (back view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: SF_away_front
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a San Francisco 49ers away football jersey (front view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: SF_away_back
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a San Francisco 49ers away football jersey (back view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: SEA_home_front
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Seattle Seahawks home football jersey (front view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: SEA_home_back
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Seattle Seahawks home football jersey (back view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: SEA_away_front
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Seattle Seahawks away football jersey (front view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: SEA_away_back
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Seattle Seahawks away football jersey (back view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: TB_home_front
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Tampa Bay Buccaneers home football jersey (front view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: TB_home_back
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Tampa Bay Buccaneers home football jersey (back view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: TB_away_front
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Tampa Bay Buccaneers away football jersey (front view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: TB_away_back
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Tampa Bay Buccaneers away football jersey (back view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: TEN_home_front
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Tennessee Titans home football jersey (front view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: TEN_home_back
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Tennessee Titans home football jersey (back view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: TEN_away_front
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Tennessee Titans away football jersey (front view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: TEN_away_back
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Tennessee Titans away football jersey (back view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: WSH_home_front
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Washington Commanders home football jersey (front view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: WSH_home_back
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Washington Commanders home football jersey (back view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: WSH_away_front
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Washington Commanders away football jersey (front view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
+name: WSH_away_back
+positive: instagram-style influencer portrait, stylish 23–30 year-old woman wearing a Washington Commanders away football jersey (back view), clean minimalist studio, beauty lighting, editorial color, head-and-torso, copy-safe negative space, high detail, social-ready
+negative: lowres, text, watermark, extra fingers, deformed hands, nsfw
+-----------------
